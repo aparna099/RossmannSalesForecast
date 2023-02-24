@@ -14,8 +14,8 @@ store.csv - supplemental information about the stores
 ### Data fields
 Most of the fields are self-explanatory. The following are descriptions for those that aren't.
 
-*Id - an Id that represents a (Store, Date) duple within the test set
-*Store - a unique Id for each store
+* Id - an Id that represents a (Store, Date) duple within the test set
+* Store - a unique Id for each store
 Sales - the turnover for any given day (this is what you are predicting)
 Customers - the number of customers on a given day
 Open - an indicator for whether the store was open: 0 = closed, 1 = open
